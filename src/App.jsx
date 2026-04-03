@@ -178,7 +178,7 @@ function dlCSV(rows, name) {
 const SHARED_CSS = `
   *{box-sizing:border-box}
   body{background:#f0f4f8}
-  input,select{font-family:'Archivo',Arial,sans-serif;font-size:16px;border:1.5px solid #c8d6e5;border-radius:6px;padding:9px 12px;color:#10285A;transition:border-color .2s;width:100%}
+  input,select{font-family:'Archivo',Arial,sans-serif;font-size:16px;border:1.5px solid #c8d6e5;border-radius:6px;padding:9px 12px;color:#10285A;transition:border-color .2s;width:100%;background:white}
   input:focus,select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accentSoft)}
   select{background:white;cursor:pointer}
   textarea{font-family:'Archivo',Arial,sans-serif;font-size:15px;border:1.5px solid #c8d6e5;border-radius:6px;padding:10px;color:#10285A;width:100%;resize:vertical}
