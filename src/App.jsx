@@ -6,10 +6,10 @@ const VC = {
   dmVdm: 73.36, dmVls: 106.71,
   sharedHostingYr: 3686.44, perUserHostingYr: 571.20,
   tierMargins: {
-    Essential:        { dm: 0.80, hosting: 0.50 },
-    "Essential Plus": { dm: 0.80, hosting: 0.50 },
-    Enhanced:         { dm: 0.70, hosting: 0.55 },
-    Enterprise:       { dm: 0.90, hosting: 0.55 },
+    Essential:        { dm: 0.90, hosting: 0.70 },
+    "Essential Plus": { dm: 0.90, hosting: 0.70 },
+    Enhanced:         { dm: 0.90, hosting: 0.70 },
+    Enterprise:       { dm: 0.90, hosting: 0.70 },
   },
   upgradeAddOns: { MMS: 35000, "Self-Managed": 17500, "In-Place": 10000 },
   discountGuardrails: {
